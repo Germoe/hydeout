@@ -7,6 +7,12 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
 <img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
 <img alt="Mobile post page" src="/_screenshots/3.png?raw=true" width="300px" />
 
+### Starter Installation (incl. Content Manager/CMS)
+
+This installation will do the heavy lifting for you. We'll put a fully configured [starter repo](https://github.com/forestryio/hyde-jekyll-starter) into your Account and import it into the [Forestry](https://forestry.io) Content Manager.
+
+[![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=forestryio/hyde-jekyll-starter&provider=github&engine=jekyll)
+
 ### Usage
 
 Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
